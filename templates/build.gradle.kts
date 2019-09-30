@@ -6,7 +6,7 @@ plugins {
 
 project.setProperty("archivesBaseName", ProjectSettings.Templates.module)
 
-group = ProjectSettings.applicationId
+group = ProjectSettings.Templates.group
 version = ProjectSettings.Templates.version
 
 repositories {
