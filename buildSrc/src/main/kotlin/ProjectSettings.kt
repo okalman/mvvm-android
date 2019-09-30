@@ -3,4 +3,12 @@ object ProjectSettings {
     const val compileSdk = 28
     const val targetSdk = 28
     const val minSdk = 18
+
+    object Templates {
+        const val version = "0.8.0"
+        const val module = "templates-android"
+        const val id = "$applicationId.$module"
+        const val name = "copyTemplates"
+        const val implementationClass = "com.thefuntasty.mvvm.templates.Templates"
+    }
 }
