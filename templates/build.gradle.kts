@@ -25,3 +25,8 @@ gradlePlugin {
         }
     }
 }
+
+tasks.register("install") {
+    dependsOn("build")
+    dependsOn("publishToMavenLocal")
+}
