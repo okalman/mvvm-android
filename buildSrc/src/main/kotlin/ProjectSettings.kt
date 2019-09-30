@@ -5,7 +5,7 @@ object ProjectSettings {
     const val minSdk = 18
 
     object Templates {
-        const val version = "0.8.0"
+        const val version = "1.1.3"
         const val group = "com.github.okalman"
         const val module = "mvvm-android"
         const val id = "$group.$module"

@@ -1,3 +1,4 @@
+rootProject.name = "mvvm-android"
 rootProject.buildFileName = "build.gradle.kts"
 
 include(
