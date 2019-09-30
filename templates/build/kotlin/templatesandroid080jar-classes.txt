@@ -1,1 +1,0 @@
-/Users/okalman/Documents/Work/mvvm-android/templates/build/classes/java/main/com/thefuntasty/mvvm/templates/Templates.class
